@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+
+# Data & model files
+input/
+output/
+*.csv
+*.faiss
+*.pkl
+*.xlsx
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db

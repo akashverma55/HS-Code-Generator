@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+bitsandbytes
+accelerate
+langchain-huggingface
