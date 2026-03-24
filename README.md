@@ -2,7 +2,7 @@
 
 > AI-powered Harmonized System code classifier — describe your product in plain English, get the right HS code instantly.
 
-![App Screenshot](images/screenshot-1.png)
+![App Screenshot](code/images/screenshot-1.png)
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Search | Result | Candidates |
 |--------|--------|------------|
-| ![](images/screenshot-1.png) | ![](images/screenshot-2.png) | ![](images/screenshot-3.png) |
+| ![](code/images/screenshot-1.png) | ![](code/images/screenshot-2.png) | ![](code/images/screenshot-3.png) |
 
 ---
 
